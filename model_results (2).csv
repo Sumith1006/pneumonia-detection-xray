@@ -1,0 +1,3 @@
+Model,Test Accuracy,Pearson Correlation
+CNN,0.9108,0.83
+DenseNet121,0.9455,0.89
